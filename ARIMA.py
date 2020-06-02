@@ -1,6 +1,6 @@
 """
 Created Feb-19
-@author: Nikos Tsiaparas
+@author: Samuel Tonks
 
 Description: This is a dashboard used for visualizing Predictions & Forecasting Diagnostics. 
 The Python code for dashboard has been created by Niko and the ARIMA python model was based on external resourses
